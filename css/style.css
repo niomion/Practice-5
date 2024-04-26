@@ -4,7 +4,6 @@
     font-family: 'Classic Console Neue';
     text-align: center;
     margin: 0;
-    opacity: 0.9;
 }
 
 .loadingm {
@@ -81,6 +80,6 @@ button:active {
 
 .gradient-animation {
     background: conic-gradient(from 90deg at 3px 3px, #0000 90deg, rgb(0, 0, 0) 0) 0 0/50px 50px;
-    animation: moveGradient 50s linear infinite;
+    animation: moveGradient 20s linear infinite;
     background-color: #222222;
 }
