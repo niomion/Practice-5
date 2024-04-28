@@ -40,6 +40,13 @@ h1 {
     color:chartreuse;
 }
 
+p {
+    font-size: 30px;
+    color: chartreuse;
+    text-align: left;
+    margin-left: 1%;
+}
+
 ul {
     margin: 0;
     padding: 0;
