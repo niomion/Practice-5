@@ -24,7 +24,7 @@ function createList() {
     var visitcard = ' <TABLE width="100%" border="0">'
 +' <TR>'
 +' <TD align="CENTER" valign="CENTER">'
-+' <IMG width="100px" height="100px"  src="/pineapple.webp">'
++' <IMG width="100px" height="100px"  src="pineapple.png">'
 +' </TD>'
 +' <TD align="CENTER">'
 +' <B>' + namef + '</B><BR>'
